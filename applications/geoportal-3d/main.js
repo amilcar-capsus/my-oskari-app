@@ -38,6 +38,8 @@ import 'oskari-loader!oskari-frontend/packages/framework/featuredata2/bundle.js'
 
 import 'oskari-loader!oskari-frontend/packages/statistics/statsgrid/bundle.js';
 
+import 'oskari-loader!oskari-frontend-contrib/packages/download-basket/bundle.js';
+
 import 'oskari-loader!../../packages/sample/bundle/sample-info/bundle.js';
 
 import 'oskari-lazy-loader?printout!oskari-frontend/packages/framework/bundle/printout/bundle.js';
