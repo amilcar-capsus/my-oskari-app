@@ -1,6 +1,6 @@
 {
     "name": "sample-application",
-    "version": "1.4.0",
+    "version": "1.2.1",
     "description": "Sample frontend for Oskari map application. Site visible in dev.oskari.org.",
     "keywords": [
         "Oskari"
